@@ -1,5 +1,5 @@
 public class First {
     public static void main(String[] args) {
-       System.out.println("Second Branch for VS Code");
+       System.out.println("Second Branch for VS Code 2");
     }
 }
